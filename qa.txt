@@ -1,0 +1,5 @@
+Verified with :
+Setup: Khadas + LG screen + S-Box
+apk: Saras-test-40384-105
+Content: Cloud_Content-test-98944-32
+alt space ?
